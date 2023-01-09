@@ -15,31 +15,31 @@
 ## ✅ 시연 영상
 
 <details><summary>회원가입, 로그인</summary>
-![로그인_회원가입](/uploads/0f667be88a7ef36e9e83574a4e5ccfa6/로그인_회원가입.gif)
+<img src="https://user-images.githubusercontent.com/100400430/211334811-cd313f07-67d6-467d-a112-4670add15203.gif">
 </details>
 
 <details><summary>홈화면 - 무한스크롤, 찜하기</summary>
-![홈_찜하기](/uploads/2135318500a416c0eb14646eb24dbfa7/홈_찜하기.gif)
+<img src="https://user-images.githubusercontent.com/100400430/211335631-b3c2c983-e292-4bfb-b178-d4eb3d80d222.gif">
 </details>
 
 <details><summary>일반 회원 - 예약&리뷰 CRUD</summary>
-![일반회원_예약CRUD_리뷰CRUD](/uploads/773e1a4939ec02724b7b264b88cde301/일반회원_예약CRUD_리뷰CRUD.gif)
+<img src="https://user-images.githubusercontent.com/100400430/211336161-07448272-fed6-4c29-aede-84cc1fb4d53e.gif">
 </details>
 
 <details><summary>일반 회원 - 회원 정보 RUD</summary>
-![일반회원_회원정보RUD](/uploads/6ce5159cf49c4c8fded5a13f77e4a8ed/일반회원_회원정보RUD.gif)
+<img src="https://user-images.githubusercontent.com/100400430/211336554-9d0a5bea-4164-47db-85a2-9ec0ca0c70e1.gif">
 </details>
 
 <details><summary>농장 회원 - 농장 정보 RUD</summary>
-![농장주_농장정보CRUD](/uploads/ae57575b16fc808b24059b7d70af4203/농장주_농장정보CRUD.gif)
+<img src="https://user-images.githubusercontent.com/100400430/211336760-c4f553a0-9138-43bb-ba5a-874d1d0638a4.gif">
 </details>
 
 <details><summary>농장 회원 - 체험시간 CRUD</summary>
-![농장주_체험시간표CRUD_1_](/uploads/ef12e1a92fb6350bceebd4073df2ff7d/농장주_체험시간표CRUD_1_.gif)
+<img src="https://user-images.githubusercontent.com/100400430/211336910-610c9dd1-355f-487b-8327-601221e794fe.gif">
 </details>
 
 <details><summary>농장 회원 - 예약 CRUD & 후기 R</summary>
-![농장주_예약RUD_후기R.](/uploads/37b7a474f808131a80e26188a41383b9/농장주_예약RUD_후기R..gif)
+<img src="https://user-images.githubusercontent.com/100400430/211337073-535a2976-dbde-4088-89b0-4d41fe56ed11.gif">
 </details>
 
 <br />
@@ -48,19 +48,19 @@
 
 |  |  |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-| ![1홈](/uploads/033cd3775e778eda6542e420a4692ef7/1홈.PNG) | ![2회원가입](/uploads/89b2aedde490ac3c9f62c34092792bce/2회원가입.PNG)
+| ![1홈](https://user-images.githubusercontent.com/100400430/211338295-c3cb2e30-7912-461a-91af-207756913498.PNG) | ![2회원가입](https://user-images.githubusercontent.com/100400430/211338641-677b08a7-4315-4e7b-8a3d-1aa25148544b.PNG)
 | 메인 페이지 | 회원가입 |
-| ![3로그인](/uploads/c927d935084a3c804453b71446addcf4/3로그인.PNG) | ![4디테일](/uploads/86e80955bcec1c218ad8692fe2427eb0/4디테일.png) |
+| ![3로그인](https://user-images.githubusercontent.com/100400430/211339261-1b8c5a4c-6f12-487e-936a-fa8663c7e854.PNG) | ![4디테일](https://user-images.githubusercontent.com/100400430/211339275-8fb512e2-f1f1-4119-819b-ad845bbbe2a5.png) |
 | 로그인 | 상세페이지(1) |
-| ![5디테일2](/uploads/157ee60a38466fe8e1fe4c583158d322/5디테일2.png)| ![6결제](/uploads/4378f6b59cebf7db6057bf9a02e5f93b/6결제.png)  |
+| ![5디테일2](https://user-images.githubusercontent.com/100400430/211339281-4a57626c-fa65-472a-a30e-cdad114accbd.png)| ![6결제](https://user-images.githubusercontent.com/100400430/211339286-6d958b02-299b-4290-a05a-d8c4e5627a94.png)  |
 | 상세페이지(2) | 결제 |
-| ![7일반회원_정보관리](/uploads/c4227707a3600646905f74949a282108/7일반회원_정보관리.PNG) | ![8일반회원_예약](/uploads/f7c8a99f26051424f1dfbc34bea3aff5/8일반회원_예약.PNG)  |
+| ![7일반회원_정보관리](https://user-images.githubusercontent.com/100400430/211341339-2017d79c-d540-4705-bdfe-279b46e55922.PNG) | ![8일반회원_예약](https://user-images.githubusercontent.com/100400430/211339403-50231bc1-c27a-4bbd-a84f-041e7d67a85b.PNG)  |
 | 일반회원 - 정보 관리 | 일반 회원 - 예약 관리 |
-| ![9일반회원_후기](/uploads/aa81b1ebc9fc6f613721a6c7c8d42238/9일반회원_후기.png)  | ![10농장주_정보등록](/uploads/8271f09fa692a49b5a1a35fc30ac165e/10농장주_정보등록.PNG) |
+| ![9일반회원_후기](https://user-images.githubusercontent.com/100400430/211339425-954b0e0a-52e1-4a5a-85ab-6b5c5e6c9ed3.png)  | ![10농장주_정보등록](https://user-images.githubusercontent.com/100400430/211339441-7a8e4177-76e1-4420-92b3-2769e9e809e2.PNG) |
 | 일반 회원 - 후기 관리 | 농장주 - 농장 정보 등록 |
-| ![11농장주_정보관리](/uploads/049b3260b1bef217973adbb4665d6175/11농장주_정보관리.PNG)  | ![12농장주_체험등록](/uploads/4e135b6ade330c4f07232eb2237e2bc7/12농장주_체험등록.PNG)  |
+| ![11농장주_정보관리](https://user-images.githubusercontent.com/100400430/211339524-8f2acd29-d9fc-4d9b-8f5e-c8a020c5a2e1.PNG)  | ![12농장주_체험등록](https://user-images.githubusercontent.com/100400430/211339547-e22b119a-821c-45c0-ac05-98292e72a8f9.PNG)  |
 | 농장주 - 농장 정보 관리 | 농장주 - 체험시간표 관리 |
-| ![13농장주_예약조회](/uploads/2887993abffa3c046aef282ecb0fc45f/13농장주_예약조회.PNG)  |  ![14농장주_후기](/uploads/c9d34953966bd961611fa9ec2414ac3b/14농장주_후기.PNG) |
+| ![13농장주_예약조회](https://user-images.githubusercontent.com/100400430/211339553-a8016d67-915c-4b0a-9e2f-6107fa10e513.PNG)  |  ![14농장주_후기](https://user-images.githubusercontent.com/100400430/211339562-46c7d8f0-37c8-489e-99e7-5c2062341c9b.PNG) |
 | 농장주 - 예약 관리 | 농장주 - 후기 조회 |
 
 
@@ -80,7 +80,7 @@ http://kdt-sw3-team01.elicecoding.com/
 <br />
 
 ## ✅ 기술 스택
-<img src="/uploads/6f10447d2e5f1bff8505f65b344029bd/image.png" width="600px">
+<img src="https://user-images.githubusercontent.com/100400430/211341915-305756b0-c0e8-4b70-adf6-87eb00df13a7.png" width="600px">
 <br />
 
 ### 💡 프론트엔드
@@ -116,7 +116,7 @@ http://kdt-sw3-team01.elicecoding.com/
 ### 💡 백엔드
 1. ERD
     <br/>
-    <img src="/uploads/b845c7c9bf8826db64f9ed1e144e79d2/image.png" width="400px">
+    <img src="https://user-images.githubusercontent.com/100400430/211342156-bcf5b353-7597-4294-b20e-7e5ce390b762.png" width="400px">
 2. [API 명세서](https://documenter.getpostman.com/view/16584157/2s8Z6sbvay)
 
 <br />
